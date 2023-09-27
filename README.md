@@ -56,6 +56,11 @@ My model will have three parts:
   ### Delivery
 
   ## Website overview
+  ![Digram img](img/aa1.png)
+  ![Digram img](img/aa2.png)
+  ![Digram img](img/aa3.png)
+  ![Digram img](img/aa4.png)
+  
   
   
 
