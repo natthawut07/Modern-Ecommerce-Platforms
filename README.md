@@ -41,10 +41,21 @@ My model will have three parts:
 
 
   ## BPMN Diagram
-  ![Digram img](img/jj1.png)
-  This BPMN diagram shows my ecommerce website process.
+  ![Digram img](img/ll1.png)
+  This is a BPMN diagram showing my ecommerce website process. It shows the various layers and functions of the website.
 
   ## All Pools in BPMN
+- Customer
+- Website
+- Admin
+- Delivery
+
+  ### Customer
+  ### Website
+  ### Admin
+  ### Delivery
+
+  ## Website overview
   
   
 
