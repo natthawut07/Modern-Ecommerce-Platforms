@@ -23,6 +23,20 @@ My model will have three parts:
   WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
   
   Visual Paradigm: "Visual Paradigm" is a software modeling and diagramming tool that serves various purposes, including software development, business process modeling, system architecture design, and more. It provides a graphical user interface that allows users to create, edit, and visualize diagrams and models of different types.
+  #### The main plugins that we use are as follows.
+  1. WooCommerce: WooCommerce is a popular open-source e-commerce plugin for WordPress, one of the most widely used content management systems (CMS) for creating websites .
+  2. PDF Invoices & Packing Slips for WooCommerce
+  3. WooCommerce PDF Invoices & Packing Slips Thai Language Pack
+  4. PeproDev WooCommerce Receipt Uploader
+  5. Chaty: Chaty is a Floating Chat Widget plugin that user can click on link to get more contact with the website
+
+
+  ## Discussion and Details
+
+     
+     
+  
+  
   
   
 
