@@ -41,6 +41,7 @@ My model will have three parts:
 
 
   ## BPMN Diagram
+  ![Digram img](img/jj1.PNG)
   
   
 
