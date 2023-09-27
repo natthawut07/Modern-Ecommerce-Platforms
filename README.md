@@ -18,11 +18,11 @@ My model will have three parts:
 
 
   ## Software and Tools Used
-  MAMP: "mamp (Mac, Apache, MySQL, PHP) is a development environment on your computer that allows you to run a web server. It is commonly used for developing and testing websites and web applications, including e-commerce websites built on WordPress. When using MAMP to create WordPress e-commerce websites."
+  **MAMP:** "mamp (Mac, Apache, MySQL, PHP) is a development environment on your computer that allows you to run a web server. It is commonly used for developing and testing websites and web applications, including e-commerce websites built on WordPress. When using MAMP to create WordPress e-commerce websites."
   
-  WordPress: WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
+  **WordPress:** WordPress serves as the primary content management system (CMS) for our website, offering a flexible and user-friendly environment for managing web content.
   
-  Visual Paradigm: "Visual Paradigm" is a software modeling and diagramming tool that serves various purposes, including software development, business process modeling, system architecture design, and more. It provides a graphical user interface that allows users to create, edit, and visualize diagrams and models of different types.
+  **Visual Paradigm:** "Visual Paradigm" is a software modeling and diagramming tool that serves various purposes, including software development, business process modeling, system architecture design, and more. It provides a graphical user interface that allows users to create, edit, and visualize diagrams and models of different types.
   #### The main plugins that we use are as follows.
   1. WooCommerce: WooCommerce is a popular open-source e-commerce plugin for WordPress, one of the most widely used content management systems (CMS) for creating websites .
   2. PDF Invoices & Packing Slips for WooCommerce
@@ -32,6 +32,17 @@ My model will have three parts:
 
 
   ## Discussion and Details
+  My theme is costume shop.
+
+
+
+
+
+
+
+  ## BPMN Diagram
+  
+  
 
      
      
