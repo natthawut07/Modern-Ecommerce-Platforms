@@ -33,6 +33,55 @@ My model will have three parts:
 
   ## Discussion and Details
   My theme is costume shop.
+ ## Steps to install mamp and WordPress
+### Step 1: Install MAMP
+
+Download MAMP from the official website (https://www.mamp.info/).
+
+Open the downloaded installer package and follow the on-screen instructions to install MAMP on your macOS.
+
+### Step 2: Start MAMP
+
+Launch MAMP by searching for it in your Applications folder or using Spotlight.
+
+Start the MAMP application. It will also start the Apache web server and MySQL database server.
+
+Click on the "Open WebStart page" button in the MAMP application. This will open a web browser window with the MAMP dashboard.
+
+### Step 3: Set Up a MySQL Database
+
+In the MAMP dashboard, click on the "phpMyAdmin" link in the Tools section. This will open phpMyAdmin in your browser.
+
+Create a new database for your WordPress installation. Choose a name for your database (e.g., "wordpress") and click the "Create" button.
+
+### Step 4: Download and Install WordPress
+
+Download the latest version of WordPress from the official website (https://wordpress.org/download/).
+
+Extract the downloaded WordPress zip file to a folder in your macOS, such as the "htdocs" folder inside the "MAMP" folder. This is where your local websites will be stored.
+### Step 5: Install WordPress
+
+Open your web browser and go to http://localhost:8888/wordpress (or the folder name where you installed WordPress).
+
+You will see the WordPress setup wizard. Select your language and click "Continue."
+
+Enter the site title, username, password, and email address for your WordPress site. Click "Install WordPress."
+
+After installation is complete, you can log in to your WordPress site using the credentials you just created.
+
+### Step 6: Use WordPress
+
+You can now start building your website using WordPress. Access the WordPress admin dashboard by going to http://localhost:8888/wordpress/wp-admin/ and logging in with your username and password.
+
+You can install themes, plugins, and create content just like you would on a live WordPress site.
+
+Remember that this is a local development environment, so your site will only be accessible on your local machine. When you're ready to launch your site online, you'll need to choose a web hosting provider and follow their instructions for migrating your WordPress site.
+
+
+
+
+
+
 
 
 
@@ -51,14 +100,23 @@ My model will have three parts:
 - Delivery
 
   ### Customer
+  ![Digram img](img/ll5.png)
+  
   ### Website
+  ![Digram img](img/ll4.png)
   ### Admin
+  ![Digram img](img/ll3.png)
   ### Delivery
+  ![Digram img](img/ll2.png)
 
   ## Website overview
+  HomePage
   ![Digram img](img/aa1.png)
+  Shop
   ![Digram img](img/aa2.png)
+  Cart
   ![Digram img](img/aa3.png)
+  Checkout
   ![Digram img](img/aa4.png)
   
   
