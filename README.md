@@ -89,7 +89,7 @@ Remember that this is a local development environment, so your site will only be
 
 
   ## BPMN Diagram
-  ![Digram img](img/jj1.png)
+  ![Digram img](img/rr1.png)
   This is a BPMN diagram showing my ecommerce website process. It shows the various layers and functions of the website.
 
   ## All Pools in BPMN
