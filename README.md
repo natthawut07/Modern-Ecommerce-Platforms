@@ -99,14 +99,14 @@ Remember that this is a local development environment, so your site will only be
 - Delivery
 
   ### Customer
-  ![Digram img](img/ll5.png)
+  ![Digram img](img/rr2.png)
   
   ### Website
-  ![Digram img](img/ll4.png)
+  ![Digram img](img/rr3.png)
   ### Admin
-  ![Digram img](img/ll3.png)
+  ![Digram img](img/rr4.png)
   ### Delivery
-  ![Digram img](img/ll2.png)
+  ![Digram img](img/rr5.png)
 
   ## Website overview
   HomePage
