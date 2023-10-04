@@ -100,6 +100,9 @@ Remember that this is a local development environment, so your site will only be
 
   ### Customer
   ![Digram img](img/rr2.png)
+  Start Event (Green Circle): Marks the beginning of the customer's journey on the platform.
+
+
   
   ### Website
   ![Digram img](img/rr3.png)
