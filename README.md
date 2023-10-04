@@ -30,7 +30,7 @@ My project is the Khon Lang Klong website. It is a website that sells many brand
 
 
   ## Discussion and Details
-  My theme is costume shop.
+  Apparel Store Version: 1.0.2 By aThemeArt
  ## Steps to install mamp and WordPress
 ### Step 1: Install MAMP
 
