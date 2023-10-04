@@ -127,6 +127,11 @@ And if customers buy again, they will go shopping again with the store page.
   ![Digram img](img/rr3.png)
   As for the website, it acts as a middle ground between Customers and admin
   - Start form the first that is product information is that can make customer choes it.
+  - There is other information besides product details.
+  - Take customer orders before the data is sent to the backend.
+  - Receiving slips from customers who have chosen to transfer before the data is sent to the backend.
+  - Last one is chat box it's what the customer can use to contect with admin.
+    
   
   ### Admin
   ![Digram img](img/rr4.png)
@@ -149,8 +154,24 @@ And if customers buy again, they will go shopping again with the store page.
   
   
   4 Taking order
+  
+   Admin will check the order list to see if there are any new orders or not. If there is a new order, the admin will go to the next task.
+  
    ![Digram img](img/a3.png)
-  Admin will check the order list to see if there are any new orders or not. If there is a new order, the admin will go to the next task.
+  Check slip and confirm order process: This process admin will check the slip of payment and confirm order.
+  
+   ![Digram img](img/a4.png)
+
+  Correct gataway: when admin check correctness about payment. If correct, It will go to Check Stock process. If not correct, It will cancel the order.
+  
+
+The next step will be preparing the customer's order. Pack the product well so that it is not damaged during the delivery.
+
+
+Next, the order will be sent to the shipping company.
+  
+  
+  
   
   
   ### Delivery
