@@ -114,6 +114,10 @@ Remember that this is a local development environment, so your site will only be
   - Put the product in the cart If the customer leaves the site, it is considered final.
 And if customers buy again, they will go shopping again with the store page.
   - Next is Check Out and select the payment method and complete the order.
+    ![Digram img](img/c1.png)
+    ![Digram img](img/c2.png)
+    ![Digram img](img/c3.png)
+    ![Digram img](img/c4.png)
     ### Check product status
     Customer can check product status with percen namber.
     
