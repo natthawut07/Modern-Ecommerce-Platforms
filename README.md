@@ -5,7 +5,6 @@ ID: 631431034
 
 Modern ecommerce platform project
 My project is the Khon Lang Klong website. It is a website that sells many brands of cameras to choose from. Our store has cameras. There are many options available to capture your most precious moments using WordPress as a platform that makes it even easier for interested customers to purchase through this platform.
-My model will have three parts:
 
 ## Content
 1. Introduction
@@ -86,8 +85,17 @@ Remember that this is a local development environment, so your site will only be
 
 
 
+ ## Website overview
+  HomePage
+  ![Digram img](img/aa1.png)
+  Shop
+  ![Digram img](img/aa2.png)
+  Cart
+  ![Digram img](img/aa3.png)
+  Checkout
+  ![Digram img](img/aa4.png)
 
-
+ 
   ## BPMN Diagram
   ![Digram img](img/ss1.png)
   This is a BPMN diagram showing my ecommerce website process. It shows the various layers and functions of the website.
@@ -100,26 +108,41 @@ Remember that this is a local development environment, so your site will only be
 
   ### Customer
   ![Digram img](img/rr2.png)
-  Start Event (Green Circle): Marks the beginning of the customer's journey on the platform.
+  - Start Event (Green Circle): Marks the beginning of the customer's journey on the platform.
+  - Customers can choose whether to go talk to the admin first or choose the product.
+  - Select Products: The customer selects the desired products from the available options.
+  - Put the product in the cart If the customer leaves the site, it is considered final.
+And if customers buy again, they will go shopping again with the store page.
+  - Next is Check Out and select the payment method and complete the order.
+    ### Check product status
+    Customer can check product status with percen namber.
+    
 
 
   
   ### Website
   ![Digram img](img/rr3.png)
+  
+   As for the website, it acts as a middle ground between Customers and admin
+  -
   ### Admin
   ![Digram img](img/rr4.png)
+  For admins, there are 4 duties on our website.
+  
+  1 Add product information
+  
+  2 Chaty
+  
+  3 Web Dev
+  
+  4 Taking order
+  
   ### Delivery
   ![Digram img](img/rr5.png)
 
-  ## Website overview
-  HomePage
-  ![Digram img](img/aa1.png)
-  Shop
-  ![Digram img](img/aa2.png)
-  Cart
-  ![Digram img](img/aa3.png)
-  Checkout
-  ![Digram img](img/aa4.png)
+  ## Conclusion
+
+
   
   
   
