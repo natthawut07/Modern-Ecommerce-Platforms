@@ -87,13 +87,12 @@ Remember that this is a local development environment, so your site will only be
 
  ## Website overview
   HomePage
-  ![Digram img](img/aa1.png)
+  ![Digram img](img/yy1.png)
   Shop
-  ![Digram img](img/aa2.png)
+  ![Digram img](img/yy2.png)
   Cart
-  ![Digram img](img/aa3.png)
-  Checkout
-  ![Digram img](img/aa4.png)
+  ![Digram img](img/yy3.png)
+
 
  
   ## BPMN Diagram
@@ -138,13 +137,30 @@ And if customers buy again, they will go shopping again with the store page.
   ![Digram img](img/a1.png)
   
   2 Chaty
+  Chat with your website visitors via their favorite channels. Show a chat icon on the bottom of your site and communicate with your website visitors.
+
+  
+  ![Digram img](img/yy4.png)
+  
   
   3 Web Dev
+
+  is to update all information of the website
+  
   
   4 Taking order
+   ![Digram img](img/a3.png)
+  Admin will check the order list to see if there are any new orders or not. If there is a new order, the admin will go to the next task.
+  
   
   ### Delivery
   ![Digram img](img/rr5.png)
+  #### Delivery process
+  - Receive customer products from admin
+  - And put in in their system
+  - Make a pacel number (Give to admin)
+  - And sent product to customer (receive money from customer for who choes cash on deliver)
+    
 
   ## Conclusion
 
