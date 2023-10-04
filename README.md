@@ -122,9 +122,9 @@ And if customers buy again, they will go shopping again with the store page.
   
   ### Website
   ![Digram img](img/rr3.png)
+  As for the website, it acts as a middle ground between Customers and admin
+  - Start form the first that is product information is that can make customer choes it.
   
-   As for the website, it acts as a middle ground between Customers and admin
-  -
   ### Admin
   ![Digram img](img/rr4.png)
   For admins, there are 4 duties on our website.
