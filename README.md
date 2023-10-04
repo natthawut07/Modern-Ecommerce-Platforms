@@ -135,6 +135,8 @@ And if customers buy again, they will go shopping again with the store page.
   
   1 Add product information
   
+  ![Digram img](img/a1.png)
+  
   2 Chaty
   
   3 Web Dev
