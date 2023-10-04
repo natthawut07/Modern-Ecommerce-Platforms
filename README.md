@@ -185,6 +185,8 @@ Next, the order will be sent to the shipping company.
 
   ## Conclusion
 
+  For this e-commerce website, this website was created using a theme and made in my own style. For me, creating a website is no longer difficult because of the website creation I have presented here. It is created without writing code at all.
+
 
   
   
